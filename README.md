@@ -1,3 +1,4 @@
+![logo](https://github.com/prajapatdip/prajapatdip/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Dip Prajapat</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
