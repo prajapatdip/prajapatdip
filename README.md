@@ -1,4 +1,5 @@
-![logo](https://github.com/prajapatdip/prajapatdip/blob/main/GitHub%20Banner.png)
+![banner](https://github.com/prajapatdip/prajapatdip/assets/104031556/979ab13b-25f5-4234-94cb-50d09ee28b6f)
+
 <h1 align="center">Hi 👋, I'm Dip Prajapat</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
