@@ -1,4 +1,4 @@
-file:///home/linux-notebook/Downloads/LinkedIn%20Background.png
+![LinkedIn Background](https://github.com/prajapatdip/prajapatdip/assets/104031556/3fc4d4e9-a835-4316-9227-f816d9ca87c7)
 
 
 <h1 align="center">Hi 👋, I'm Dip Prajapat</h1>
